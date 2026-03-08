@@ -108,7 +108,7 @@ Building practical projects and improving code quality.
 
 - 🌐 **Portfolio Website** – Personal developer portfolio  
 - 🛒 **E-Commerce UI** – Responsive online store interface  
-- 📱 **Landing Page Collection** – Modern responsive layouts  
+- 📱 **Landing Page Collection** – Modern responsive layout 
 
 ---
 
